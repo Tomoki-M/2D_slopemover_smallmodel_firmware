@@ -1,0 +1,2 @@
+# 2D_slopemover_smallmodel_firmware
+二次元移動体の小型模型の制御ソフト
